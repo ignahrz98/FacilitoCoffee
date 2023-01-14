@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5 {
 
 .cover {
   height: 400px;
-  background-image: url(https://cdn.glitch.global/fe0028b3-10d6-4235-a22c-84b99454d1d7/fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg?v=1673144512515);
+  background-image: url(assets/fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg);
   color: white;
   background-size: cover;
   background-position: center;
